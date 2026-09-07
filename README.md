@@ -153,7 +153,7 @@ The project started with a raw e-commerce dataset containing order-level transac
 
 ### Screenshot — Raw Dataset
 
-![Raw Data](https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/e6bd182564ead7ebd0929e3c2c8a42cbacf3d5de/EXCEL%20DATA/1%20row%20data.png)
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/e6bd182564ead7ebd0929e3c2c8a42cbacf3d5de/EXCEL%20DATA/1%20row%20data.png" width="100%">
 <br>
 
 ---
@@ -179,8 +179,7 @@ The goal was to ensure that the dataset was suitable for database storage and an
 
 ### Screenshot — Cleaned Excel Dataset
 
-<!-- ADD IMAGE HERE -->
-<!-- Example: ![Cleaned Data](images/02_cleaned_data.png) -->
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/EXCEL%20DATA/cleard%20data.png" width="100%">
 
 <br>
 
@@ -220,9 +219,7 @@ CREATE TABLE ecommerce_sales (
 
 ### Screenshot — PostgreSQL Table Creation
 
-<!-- ADD IMAGE HERE -->
-<!-- Example: ![Table Creation](images/03_table_creation.png) -->
-
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/SCRIPT/postgresql_import.png.png" width="100%">
 <br>
 
 ---
@@ -284,8 +281,7 @@ WHERE discount < 0
 
 ### Screenshot — Data Quality Checks
 
-<!-- ADD IMAGE HERE -->
-
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/SCRIPT/postgresql_import.png.png" width="100%">
 <br>
 
 ---
@@ -326,7 +322,7 @@ WHERE order_status = 'Delivered';
 
 ### Screenshot — Overall Business Analysis
 
-<!-- ADD IMAGE HERE -->
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/SCRIPT/postgresql_import2.png.png" width="100%">
 
 <br>
 
@@ -352,7 +348,7 @@ SQL concepts used:
 
 ### Screenshot — Monthly Sales Analysis
 
-<!-- ADD IMAGE HERE -->
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/SCRIPT/postgresql_import3.png.png" width="100%">
 
 <br>
 
@@ -373,7 +369,7 @@ I compared categories using:
 
 ### Screenshot — Category Analysis
 
-<!-- ADD IMAGE HERE -->
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/SCRIPT/postgresql_import4.png.png" width="100%">
 
 <br>
 
@@ -396,7 +392,7 @@ Products were analyzed to identify:
 
 ### Screenshot — Product Analysis
 
-<!-- ADD IMAGE HERE -->
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/SCRIPT/postgresql_import5.png.png" width="100%">
 
 <br>
 
@@ -417,9 +413,7 @@ Metrics included:
 > Which customers contribute the most revenue to the business?
 
 ### Screenshot — Customer Analysis
-
-<!-- ADD IMAGE HERE -->
-
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/SCRIPT/postgresql_import6.png.png" width="100%">
 <br>
 
 ---
@@ -443,7 +437,7 @@ Metrics included:
 
 ### Screenshot — Geographic Analysis
 
-<!-- ADD IMAGE HERE -->
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/SCRIPT/postgresql_import6.png.png" width="100%">
 
 <br>
 
@@ -466,8 +460,7 @@ Metrics analyzed:
 - Profit Margin
 
 ### Screenshot — Sales Channel Analysis
-
-<!-- ADD IMAGE HERE -->
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/SCRIPT/postgresql_import2.png.png" width="100%">
 
 <br>
 
@@ -486,7 +479,7 @@ I analyzed customer payment preferences using:
 
 ### Screenshot — Payment Method Analysis
 
-<!-- ADD IMAGE HERE -->
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/SCRIPT/postgresql_import2.png.png" width="100%">
 
 <br>
 
@@ -509,7 +502,7 @@ Examples:
 
 ### Screenshot — Order Status Analysis
 
-<!-- ADD IMAGE HERE -->
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/SCRIPT/postgresql_import2.png.png" width="100%">
 
 <br>
 
@@ -557,9 +550,7 @@ WHERE rank <= 3
 ORDER BY category, rank;
 ```
 
-### Screenshot — Advanced SQL Analysis
 
-<!-- ADD IMAGE HERE -->
 
 <br>
 
@@ -595,9 +586,7 @@ Power BI
 8. Create DAX measures.
 9. Build interactive dashboards.
 
-### Screenshot — Power BI Data Connection
 
-<!-- ADD IMAGE HERE -->
 
 <br>
 
@@ -681,7 +670,7 @@ DIVIDE(
 
 ### Screenshot — DAX Measures
 
-<!-- ADD IMAGE HERE -->
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/DASHBOARDS/powerbi_Dex.png.png" width="100%">
 
 <br>
 
@@ -720,8 +709,7 @@ The report contains three main analytical sections.
 
 ### Dashboard Screenshot
 
-<!-- ADD IMAGE HERE -->
-<!-- Example: ![E-Commerce Dashboard](images/dashboard_1.png) -->
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/DASHBOARDS/powerbi_dashboard1.png.png" width="100%">
 
 <br>
 
@@ -747,8 +735,7 @@ The report contains three main analytical sections.
 
 ### Dashboard Screenshot
 
-<!-- ADD IMAGE HERE -->
-<!-- Example: ![Customer Analytics](images/dashboard_2.png) -->
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/DASHBOARDS/powerbi_dashboard2.png.png" width="100%">
 
 <br>
 
@@ -775,8 +762,7 @@ The report contains three main analytical sections.
 
 ### Dashboard Screenshot
 
-<!-- ADD IMAGE HERE -->
-<!-- Example: ![Product & Profitability Dashboard](images/dashboard_3.png) -->
+<img src="https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/161a0e581e8bc48a5cacd14597b5a1419a917ed2/DASHBOARDS/powerbi_dashboard3.png.png" width="100%">
 
 <br>
 
@@ -888,44 +874,6 @@ Business Insights & Decision Support
 
 ---
 
-# 17. Screenshots
-
-## Raw Data
-
-<!-- ADD IMAGE HERE -->
-
-<br>
-
-## Cleaned Data
-
-<!-- ADD IMAGE HERE -->
-
-<br>
-
-## PostgreSQL Analysis
-
-<!-- ADD IMAGE HERE -->
-
-<br>
-
-## Power BI Dashboard — Sales & Customer Analytics
-
-<!-- ADD IMAGE HERE -->
-
-<br>
-
-## Power BI Dashboard — Customer Analytics
-
-<!-- ADD IMAGE HERE -->
-
-<br>
-
-## Power BI Dashboard — Product & Profitability Analytics
-
-<!-- ADD IMAGE HERE -->
-
-<br>
-
 ---
 
 # Conclusion
@@ -940,7 +888,7 @@ The final dashboards allow users to explore sales, customer behavior, product pe
 
 ## Author
 
-**Your Name:** [Add Your Name Here]
+**Your Name:** [BHOR SINGH]
 
 **Role:** Aspiring Data Analyst
 
