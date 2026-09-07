@@ -153,9 +153,7 @@ The project started with a raw e-commerce dataset containing order-level transac
 
 ### Screenshot — Raw Dataset
 
-<!-- ADD IMAGE HERE -->
-<!-- Example: ![Raw Data](images/01_raw_data.png) -->
-
+![Raw Data](https://raw.githubusercontent.com/bhor633/E-Commerce-Sales-Customer-Analytics/e6bd182564ead7ebd0929e3c2c8a42cbacf3d5de/EXCEL%20DATA/1%20row%20data.png)
 <br>
 
 ---
